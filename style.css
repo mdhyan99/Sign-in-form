@@ -41,7 +41,7 @@ button:hover {
 }
 .forget  {
     text-decoration: none;
-    color: red;
+    color: rgb(227, 19, 19);
     font-size: 8px;
 }
 input {
