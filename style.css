@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    display: block;
+   
+}
+div{
+    margin: 20px;
+    margin-left: 0;
+}
+form {
+    width: 200px;
+    position: absolute;
+    margin: 20px;
+    margin-top: 20%;
+    margin-left: 40%;
+    font-size: 14px;
+    padding: 10px;
+    padding-top: 0;
+    border: 0.5px dotted rgba(242, 235, 235, 0.655);
+}
+.reg {
+    text-decoration: none;
+    color: red;
+    font-size: 8px;
+}
+button {
+    width: 180px;
+    height: 20px;
+    background-color: red;
+    border: #eee;
+    color: white;
+}
+button:hover {
+   cursor: pointer; 
+}
+.forget  {
+    text-decoration: none;
+    color: red;
+    font-size: 8px;
+}
+input {
+    height: 20px;
+    background-color: #eee;
+    border: #eee;
+}
